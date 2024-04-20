@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 曾厚然
+title: Zeng Houran
 
 # Name pronunciation (optional)
-name_pronunciation: Zeng Houran
+name_pronunciation: ゼン　ホーラン
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Houran
+last_name: Zeng
 
 # Status emoji
 status:
@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Hello, I'm Zeng Houran from China. I have a deep interest in human emotions and am eager to help individuals explore themselves through a blend of art and engineering. Currently, I'm learning the Cognitive Psychology as a research student at Hokkaido University.
+Hello, I'm Zeng Houran (曾厚然) from China. I have a deep interest in human emotions and am eager to help individuals explore themselves through a blend of art and engineering. Currently, I'm learning the Cognitive Psychology as a research student at Hokkaido University.
 {style="text-align: justify;"}
