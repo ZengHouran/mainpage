@@ -6,11 +6,6 @@ title: 'An Analysis of User's perceptual preferences in Virtual Reality Home Int
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Houran Zeng
-  - Lijuan Zhao
-  - Jing Zhang
-  - Xiaoke Li
-  - Wei Xu
 
 # Author notes (optional)
 # author_notes:
