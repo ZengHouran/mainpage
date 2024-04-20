@@ -13,9 +13,8 @@ authors:
   - Wei Xu
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+# - 'Equal contribution'
 
 date: '2023-07-26T00:00:00Z'
 doi: 'http://doi.org/10.54941/ahfe1003873'
