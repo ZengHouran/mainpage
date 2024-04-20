@@ -1,20 +1,24 @@
 ---
-title: 'An example conference paper'
+title: 'An Analysis of User's perceptual preferences in Virtual Reality Home Interface Design'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Houran Zeng
+  - Lijuan Zhao
+  - Jing Zhang
+  - Xiaoke Li
+  - Wei Xu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-07-26T00:00:00Z'
+doi: 'http://doi.org/10.54941/ahfe1003873'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,12 +30,12 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication_short: In *AHFE 2023*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The home interface of Virtual Reality (VR) human-computer interaction system determines the consumer's first impression of VR, and it is also the core interface for users to perceive and understand the functional distribution and composition of the entire VR system. However, the current VR home interface design ignores the importance of users' perceptual needs and preferences. This paper attempts to study the relationship between perceptual preferences and design elements in the VR home interfaces by Kansei Engineering. Through the semantic evaluation of the home interface of thirty mainstream HMDs, we analyzed and found that the layout, icon style and the number of cards are the factors that affect perceptual preferences the most. Subsequently, we conducted an experiment on the relationship between these interface design elements and perceptual preferences. Based on the experiment results, it is validated that these interface design elements have varying effects on perception, the icon style has the greatest impact on “future” perception, the interface layout has the greatest impact on “comfort” perception, and the number of cards has the greatest impact on “immersion” perception.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper attempts to study the relationship between perceptual preferences and design elements in the VR home interfaces by Kansei Engineering and finds that the layout, icon style and the number of cards are the factors that affect perceptual preferences the most.
 
 tags: []
 
