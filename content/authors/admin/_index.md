@@ -22,16 +22,16 @@ role: Research Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 視知覚認知過程論，北海道大学
-    url: https://www.stanford.edu/
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Informatics Interaction Design
+  - Cognitive Psychology
+  - Kansei Engineering
 
 # Education to show in About widget
 education:
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto: zenghouran@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
