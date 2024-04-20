@@ -3,7 +3,7 @@
 title: 曾厚然
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ゼン　ホーラン
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: 視知覚認知過程論，北海道大学
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Zeng Houran from China. I have a deep interest in human emotions and am eager to help individuals explore themselves through a blend of art and engineering. Currently, I'm learning the Cognitive Psychology as a research student at Hokkaido University.
 {style="text-align: justify;"}
