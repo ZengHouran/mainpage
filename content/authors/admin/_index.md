@@ -3,7 +3,7 @@
 title: 曾厚然
 
 # Name pronunciation (optional)
-name_pronunciation: ゼン　ホーラン
+name_pronunciation: Zeng Houran
 
 # Full name (for SEO)
 first_name: Shiung Wu
